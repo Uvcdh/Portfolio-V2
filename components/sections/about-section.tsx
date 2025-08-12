@@ -21,14 +21,13 @@ export function AboutSection() {
             <div className="space-y-2">
               <div className="inline-block rounded-lg bg-primary px-3 py-1 text-sm text-primary-foreground">
                 <BookUser className="w-4 h-4 inline-block mr-2" />
-                About ME
+                About Me
               </div>
-              <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">About ME</h2>
+              <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">About Me</h2>
               <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                I am a student who likes to learn programming languages and also internet networking. 
-                I am from bali and studied at smkn 3 singaraja at school, 
-                with my chosen major of telecommunication network. 
-                With a background in programming and network expertise, I combine creativity with technical expertise to produce products that meet user needs and benefit everyone.
+                Saya seorang pelajar yang suka belajar bahasa pemrograman.
+                Saya berasal dari medan dan bersekolah di mas al-manar medan, 
+                Dengan latar belakang pemrograman, saya menggabungkan kreativitas dengan keahlian teknis untuk menghasilkan produk yang memenuhi kebutuhan pengguna dan bermanfaat bagi semua orang.
               </p>
             </div>
           </div>
@@ -47,7 +46,7 @@ export function AboutSection() {
                     </div>
                     <div className="flex-1">
                       <h3 className="text-xl font-bold">Experience</h3>
-                      <p className="text-muted-foreground">2+ years of experience in learning programming languages</p>
+                      <p className="text-muted-foreground">6+ bulan pengalaman dalam mempelajari bahasa pemrograman</p>
                     </div>
                   </motion.li>
               </FadeInItem>
@@ -61,8 +60,8 @@ export function AboutSection() {
                       <Code className="h-5 w-5 text-primary" />
                     </div>
                     <div className="flex-1">
-                      <h3 className="text-xl font-bold">Education</h3>
-                      <p className="text-muted-foreground">Network Engineer</p>
+                      <h3 className="text-xl font-bold">Ambition</h3>
+                      <p className="text-muted-foreground">Programer</p>
                     </div>
                   </motion.li>
               </FadeInItem>
