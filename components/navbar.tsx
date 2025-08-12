@@ -115,7 +115,7 @@ export function Navbar() {
             height={32}
             className="rounded-full"
           />
-          <span>Rifqi Al Kamil</span>
+          <span>milkitaa.</span>
         </Link>
 
         {/* Mobile menu button */}
