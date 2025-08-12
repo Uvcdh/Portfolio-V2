@@ -115,7 +115,7 @@ export function Navbar() {
             height={32}
             className="rounded-full"
           />
-          <span>Xvannn07</span>
+          <span>Rifqi Al Kamil</span>
         </Link>
 
         {/* Mobile menu button */}
