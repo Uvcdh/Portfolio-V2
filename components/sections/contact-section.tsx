@@ -18,7 +18,7 @@ export function ContactSection() {
       index: 1,
       name: "Instagram",
       icon: <Instagram className="h-5 w-5 text-primary" />,
-      link: "https://instagram.com/milkitaa",
+      link: "https://instagram.com/kamil_elyapping",
     },
     {
       index: 2,
