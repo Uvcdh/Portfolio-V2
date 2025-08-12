@@ -12,13 +12,13 @@ export function ContactSection() {
       index: 0,
       name: "Github",
       icon: <Github className="h-5 w-5 text-primary" />,
-      link: "https://github.com/xvannn07",
+      link: "https://github.com/milkitaaaa",
     },
     {
       index: 1,
       name: "Instagram",
       icon: <Instagram className="h-5 w-5 text-primary" />,
-      link: "https://instagram.com/xvannn07",
+      link: "https://instagram.com/milkitaa",
     },
     {
       index: 2,
@@ -38,7 +38,7 @@ export function ContactSection() {
                 <Contact className="w-4 h-4 inline-block mr-2" />
                 Contact
               </div>
-              <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Contact ME</h2>
+              <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Contact Me</h2>
               <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                 Interested in working together? Feel free to contact me.
               </p>
@@ -60,7 +60,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <h3 className="text-lg font-medium">Email</h3>
-                  <p className="text-muted-foreground">xvannn07@gmail.com</p>
+                  <p className="text-muted-foreground">milkitaa@gmail.com</p>
                 </div>
               </motion.div>
 
@@ -75,7 +75,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <h3 className="text-lg font-medium">Contact</h3>
-                  <p className="text-muted-foreground">+6281775489662</p>
+                  <p className="text-muted-foreground">+6283126063933</p>
                 </div>
               </motion.div>
 
