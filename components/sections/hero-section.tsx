@@ -80,7 +80,7 @@ export function HeroSection() {
             className="max-w-3xl"
           >
             <h1 className="text-4xl md:text-6xl font-bold tracking-tighter mb-4">
-              Hello, I'm <span className="text-primary">Khrisna</span>
+              Hello, I'm <span className="text-primary">Kamil</span>
             </h1>
             <div className="mb-6">
               <AnimatedText
