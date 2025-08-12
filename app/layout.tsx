@@ -2,13 +2,13 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://xvannn07.xyz'),
-  title: 'Ekspann',
+  metadataBase: new URL('https://milkitaa.vercel.app'),
+  title: 'Kamil',
   description: 'My Personal Portfolio',
   openGraph: {
     type: 'website',
-    url: 'https://xvannn07.xyz',
-    title: 'Ekspann',
+    url: 'https://milkitaa.vercel.app',
+    title: 'Kamil',
     description: 'My Personal Portfolio',
     images: [
       {
