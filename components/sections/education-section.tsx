@@ -14,25 +14,25 @@ export function EducationSection() {
   const educationHistory = [
     {
       level: "Sekolah Dasar (SD)",
-      school: "SD Negeri 1 Banyuning",
-      yearStart: "2005",
-      yearEnd: "2020",
+      school: "SD IT IQRO MEDAN",
+      yearStart: "2016",
+      yearEnd: "2021",
       description:
         "Completed primary education with good academic performance and active in extracurricular activities.",
       image: "/school/sdn1banyuning.jpg?height=200&width=200",
     },
     {
       level: "Sekolah Menengah Pertama (SMP)",
-      school: "SMP Negeri 5 Singaraja",
-      yearStart: "2020",
-      yearEnd: "2023",
+      school: "SMP IT IQRO MEDAN",
+      yearStart: "2021",
+      yearEnd: "2024",
       description: "Active in student organizations and self-directed.",
       image: "/school/smpn5singaraja.jpg?height=200&width=200",
     },
     {
-      level: "Sekolah Menengah Kejuruan (SMK)",
-      school: "SMK Negeri 3 Singaraja",
-      yearStart: "2023",
+      level: "Sekolah Menengah Atas (SMA)",
+      school: "SMA MAS AL-MANAR MEDAN",
+      yearStart: "2025",
       yearEnd: "now",
       description:
         "Majored in communication network engineering with a focus on computer and network subjects. Became the president of the computer club.",
